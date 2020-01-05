@@ -1,0 +1,34 @@
+{{- $release := .Release.Name }}
+{{- $releasens := .Release.Namespace }}
+{{- $defaults := .Values.defaults }}
+
+{{- range .Values.applications }}
+{{- $port := .port | default $defaults.port }}
+{{- $app_id := printf "%s-%s" $release .name}}
+{{- if .ingress -}}
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: {{ $app_id }}
+  namespace: {{ $releasens }}
+  {{- if .ingress.annotations }}
+  {{- with .ingress.annotations }}
+  annotations:
+    {{- toYaml . | nindent 4 }}
+  {{- end }}
+  {{- end }}
+spec:
+  rules:
+  {{- range .ingress.hosts }}
+    - host: {{ .host | quote }}
+      http:
+        paths:
+        {{- range .paths }}
+          - path: {{ . }}
+            backend:
+              serviceName: {{ $app_id }}
+              servicePort: {{ $port }}
+        {{- end }}
+  {{- end }}
+{{- end }}
+{{- end }}
