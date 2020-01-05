@@ -1,6 +1,6 @@
 apiVersion: v2
 name: icarus
-description: A generic helm chart that acts as the platform for Penn Labs
+description: A generic helm chart that acts as the deployment base for Penn Labs
 
 home: https://github.com/pennlabs/helm-charts
 
