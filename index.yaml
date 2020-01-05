@@ -3,20 +3,21 @@ entries:
   icarus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-04T21:55:45.0871-05:00"
+    created: "2020-01-04T22:03:42.883731-05:00"
     description: A generic helm chart that acts as the platform for Penn Labs
-    digest: 8869fb7701b1a654df2690718d558bf8c5671806c538ffd149fa0006249cbc7e
+    digest: 4a6299be5c0b07fcec9ea3402a4a04fc3161d1c35c72001bcecf9d38d9960bb3
+    home: https://github.com/pennlabs/helm-charts
     name: icarus
     urls:
-    - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.5/icarus-0.1.5.tgz
-    version: 0.1.5
+    - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.6/icarus-0.1.6.tgz
+    version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-04T21:55:44.964447-05:00"
+    created: "2020-01-04T22:03:42.747926-05:00"
     description: A generic helm chart that acts as the platform for Penn Labs
     digest: 8875463ded677c0356157f1ebbcd0e744744aa68204db7c54a885cfcc38b39fa
     name: icarus
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.0/icarus-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-04T21:55:44.755886-05:00"
+generated: "2020-01-04T22:03:42.568952-05:00"
