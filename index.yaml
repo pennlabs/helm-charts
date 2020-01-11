@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  ingress-bouncer:
+  icarus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-11T01:53:13.695352716Z"
-    description: A Helm chart to deploy an ingress bouncer
-    digest: 28032d6b41817fddf28ae0996b63c71a5757ac019e0c057fb08a3f886bf23155
-    name: ingress-bouncer
+    created: "2020-01-11T02:22:39.236981894Z"
+    description: A generic helm chart that acts as the deploy base for Penn Labs
+    digest: 052c12640404d5d1c563eebdec76588d4066ef074f45e8ab7e7a587488e50805
+    name: icarus
     urls:
-    - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.0/ingress-bouncer-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-01-11T01:53:13.573550024Z"
+    - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.8/icarus-0.1.8.tgz
+    version: 0.1.8
+generated: "2020-01-11T02:22:39.114379349Z"
