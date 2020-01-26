@@ -3,7 +3,16 @@ entries:
   icarus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:32.930512833Z"
+    created: "2020-01-26T00:11:23.620452559Z"
+    description: A generic helm chart that acts as the deploy base for Penn Labs
+    digest: 42dc5fea805041d7ed4731531fe1f9f350269492f541252a8f6fe67c21e62b11
+    name: icarus
+    urls:
+    - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.12/icarus-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-01-26T00:11:23.518797591Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: bfd27a8d346a8611f63e84bd7d51da0617f705ffe324f450b3486c06fb9f6bcb
     name: icarus
@@ -12,7 +21,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:32.800485211Z"
+    created: "2020-01-26T00:11:23.421734624Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: ad947842e743cff6fe64995445f9081560158d018a8e4ef5885f6a8bc7fe9a7a
     name: icarus
@@ -21,7 +30,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.19831095Z"
+    created: "2020-01-26T00:11:23.837733541Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 7a44e016d9471f76e43ff6f0ff7f0a0c67a8e8b41b54aaa002c83bb112d44ee8
     name: icarus
@@ -30,7 +39,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.059197661Z"
+    created: "2020-01-26T00:11:23.730488883Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 052c12640404d5d1c563eebdec76588d4066ef074f45e8ab7e7a587488e50805
     name: icarus
@@ -40,7 +49,7 @@ entries:
   ingress-bouncer:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.807039817Z"
+    created: "2020-01-26T00:11:24.281755306Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 06aabf99aad9727e3165bac3c545e7f1b32e1ea929f842a6e79edd7c6f5f5aef
     name: ingress-bouncer
@@ -49,7 +58,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.663797808Z"
+    created: "2020-01-26T00:11:24.175354194Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 4b4b8d5c8ed4a75c28b0753702a0bb61839e0d8029c262f17e14599681aff56e
     name: ingress-bouncer
@@ -58,7 +67,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.470208778Z"
+    created: "2020-01-26T00:11:24.071712072Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 3e8fe325e26102d18b9df075962ab20e1d187550d3e3df8f4aa0079375746bb1
     name: ingress-bouncer
@@ -67,11 +76,11 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-13T04:42:33.328116921Z"
+    created: "2020-01-26T00:11:23.948554633Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 69eaf50e3c27460ce4c7255b34474631fe04d141cc0c4bbc60fa8f4c47e2e0f6
     name: ingress-bouncer
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.1/ingress-bouncer-0.1.1.tgz
     version: 0.1.1
-generated: "2020-01-13T04:42:32.675977578Z"
+generated: "2020-01-26T00:11:23.283556966Z"
