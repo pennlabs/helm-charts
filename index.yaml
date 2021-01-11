@@ -3,7 +3,7 @@ entries:
   helm-wrapper:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.432170639Z"
+    created: "2021-01-11T01:13:11.048120289Z"
     description: A Wrapper Helm chart for Kubernetes
     digest: 801df977bb1f0bbf25da3e1fd3e12d6a31a7433e1a59867da7f23557043e1d03
     name: helm-wrapper
@@ -13,7 +13,7 @@ entries:
   icarus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.597283104Z"
+    created: "2021-01-11T01:13:12.186076074Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: f97ca4674e6c05cb7896c06e886eb19ca084ab427c2b97cf7b0857f60e412bbf
     name: icarus
@@ -22,7 +22,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.518454812Z"
+    created: "2021-01-11T01:13:12.110496873Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 5f62848e5960ac6d4eef2f5d3e9ce3d146fc5c4d45ac4b54a95536750b5e5e3b
     name: icarus
@@ -31,7 +31,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.42327165Z"
+    created: "2021-01-11T01:13:12.015485477Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: fb04fe2cc2c0c567afaf11def5d3d547061a7c1795f79ad6ad46920a4001ac65
     name: icarus
@@ -40,7 +40,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.335218789Z"
+    created: "2021-01-11T01:13:11.92436642Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 9032f75f36775b009a6313c27bdce5e244a842c69298658b294d917226c0e168
     name: icarus
@@ -49,7 +49,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.253726571Z"
+    created: "2021-01-11T01:13:11.834346271Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: be397bf601917efffa0a7f5ff04081cf657f79904b384e8949419912b596da48
     name: icarus
@@ -58,7 +58,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.173047006Z"
+    created: "2021-01-11T01:13:11.754611227Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 79b5d14bdd304afe77cc66686ae073b02f507ebed5f43089bccfc9f99f3977be
     name: icarus
@@ -67,7 +67,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.082915263Z"
+    created: "2021-01-11T01:13:11.668128044Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 30ca48d68a2521e5015d1aa328c0ac1dca554e0373b8c273358fbbbe37841eca
     name: icarus
@@ -76,7 +76,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.007024032Z"
+    created: "2021-01-11T01:13:11.587423484Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 0e7f33bb4bfddd10d5d442eb3cda552502d58abf996c9e511b1b49321f09e8f7
     name: icarus
@@ -85,7 +85,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.905383084Z"
+    created: "2021-01-11T01:13:11.497561881Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: e421885fad721d25ef0311d0e914e6c1c35e68b9b11414663b70b6dab68ab4b4
     name: icarus
@@ -94,7 +94,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.812397078Z"
+    created: "2021-01-11T01:13:11.413938667Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 0f7033d90b2639de08ad625ea470c94c255252e53ed11ba8823c9289fab1591a
     name: icarus
@@ -103,7 +103,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.719036164Z"
+    created: "2021-01-11T01:13:11.340605496Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 42dc5fea805041d7ed4731531fe1f9f350269492f541252a8f6fe67c21e62b11
     name: icarus
@@ -112,7 +112,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.627092061Z"
+    created: "2021-01-11T01:13:11.228310417Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: bfd27a8d346a8611f63e84bd7d51da0617f705ffe324f450b3486c06fb9f6bcb
     name: icarus
@@ -121,7 +121,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:38.518529592Z"
+    created: "2021-01-11T01:13:11.13731735Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: ad947842e743cff6fe64995445f9081560158d018a8e4ef5885f6a8bc7fe9a7a
     name: icarus
@@ -130,7 +130,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.759948676Z"
+    created: "2021-01-11T01:13:12.352845779Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 7a44e016d9471f76e43ff6f0ff7f0a0c67a8e8b41b54aaa002c83bb112d44ee8
     name: icarus
@@ -139,7 +139,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.681989222Z"
+    created: "2021-01-11T01:13:12.268956346Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 052c12640404d5d1c563eebdec76588d4066ef074f45e8ab7e7a587488e50805
     name: icarus
@@ -149,7 +149,7 @@ entries:
   ingress-bouncer:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:40.100638023Z"
+    created: "2021-01-11T01:13:12.738490646Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 06aabf99aad9727e3165bac3c545e7f1b32e1ea929f842a6e79edd7c6f5f5aef
     name: ingress-bouncer
@@ -158,7 +158,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:40.011028493Z"
+    created: "2021-01-11T01:13:12.623189051Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 4b4b8d5c8ed4a75c28b0753702a0bb61839e0d8029c262f17e14599681aff56e
     name: ingress-bouncer
@@ -167,7 +167,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.921251504Z"
+    created: "2021-01-11T01:13:12.521434786Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 3e8fe325e26102d18b9df075962ab20e1d187550d3e3df8f4aa0079375746bb1
     name: ingress-bouncer
@@ -176,7 +176,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:39.831595304Z"
+    created: "2021-01-11T01:13:12.434959343Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 69eaf50e3c27460ce4c7255b34474631fe04d141cc0c4bbc60fa8f4c47e2e0f6
     name: ingress-bouncer
@@ -186,7 +186,7 @@ entries:
   minecraft:
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.432154591Z"
+    created: "2021-01-11T01:13:12.995718462Z"
     description: Minecraft server
     digest: c10343151f3deb22736bfabdc219bd8f98f2af3731b6e5f37cd0b26f476b3850
     home: https://minecraft.net/
@@ -202,7 +202,7 @@ entries:
     version: 1.1.12
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.275825294Z"
+    created: "2021-01-11T01:13:12.908890194Z"
     description: Minecraft server
     digest: 0466c7ce2ba99510229d78c700961735fd57b498aac6ffccd3ab765b698d6008
     home: https://minecraft.net/
@@ -218,7 +218,7 @@ entries:
     version: 1.1.11
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.192095075Z"
+    created: "2021-01-11T01:13:12.813638167Z"
     description: Minecraft server
     digest: 09b48b3a258daa290a3c4d886730329349e2ff74bfc1924b480d9a396358b99c
     home: https://minecraft.net/
@@ -237,7 +237,7 @@ entries:
     version: 1.1.10
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.679684886Z"
+    created: "2021-01-11T01:13:13.251327318Z"
     description: Minecraft server
     digest: 209504ef68040b6d7860edb6f8c2f0d66ec4e1cc11e9d507bb5af44571633ce3
     home: https://minecraft.net/
@@ -256,7 +256,7 @@ entries:
     version: 1.1.9
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.603249485Z"
+    created: "2021-01-11T01:13:13.174372838Z"
     description: Minecraft server
     digest: e2447358862e7d15aba9ec32c063d48149463ba4e0c998127c66b00f3bd90a0a
     home: https://minecraft.net/
@@ -279,7 +279,7 @@ entries:
     version: 1.1.8
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2020-09-12T20:58:40.514851643Z"
+    created: "2021-01-11T01:13:13.089601988Z"
     description: Minecraft server
     digest: 44b6ae8083ad13dd5aa0bc1f6a19b1f2097602383a5b6cf972efbf0f884681ba
     home: https://minecraft.net/
@@ -303,7 +303,16 @@ entries:
   vault-secret-sync:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:41.077556766Z"
+    created: "2021-01-11T01:13:13.664950055Z"
+    description: A Helm chart to sync Vault secrets
+    digest: 18a35dbb86f1834c7a66821472ea1cdbc2a9913186ea73e0006ee43686f4f41b
+    name: vault-secret-sync
+    urls:
+    - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.4/vault-secret-sync-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-11T01:13:13.567503666Z"
     description: A Helm chart to sync Vault secrets
     digest: c2e25b98ea4e9045722817f1a0d851a254b8b4f268330a83994a0c6d0901c299
     name: vault-secret-sync
@@ -312,7 +321,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:40.987595215Z"
+    created: "2021-01-11T01:13:13.464055807Z"
     description: A Helm chart to sync Vault secrets
     digest: 0a0a41d8214c497f0e16750060ae7fef0af42eb91bbc89832239fcdd8e642131
     name: vault-secret-sync
@@ -321,7 +330,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:40.847074857Z"
+    created: "2021-01-11T01:13:13.388184261Z"
     description: A Helm chart to sync Vault secrets
     digest: 44f972afc0a94dd6ee0807374a16ac7381175d2847b76bc940f20414f1ac22aa
     name: vault-secret-sync
@@ -330,11 +339,11 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-12T20:58:40.760714129Z"
+    created: "2021-01-11T01:13:13.313163401Z"
     description: A Helm chart to sync Vault secrets
     digest: 8b80ebb82aa5e03cc0d8195ce766d787ae2a45d83fd33ac61157154da1c989bb
     name: vault-secret-sync
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.0/vault-secret-sync-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-12T20:58:38.349357528Z"
+generated: "2021-01-11T01:13:10.935802396Z"
