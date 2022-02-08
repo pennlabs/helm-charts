@@ -330,37 +330,6 @@ entries:
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/minecraft-1.1.7/minecraft-1.1.7.tgz
     version: 1.1.7
-  test-chart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-08T21:01:04.734448607Z"
-    description: A Helm chart to test gh actions
-    digest: 78b009020c85e8ef1972e2bf7dc1dac28aa0d05e223a8ded689bd3cccef99a63
-    name: test-chart
-    type: application
-    urls:
-    - https://github.com/pennlabs/helm-charts/releases/download/test-chart-0.3.0/test-chart-0.3.0.tgz
-    version: 0.3.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-08T21:01:04.559812313Z"
-    description: A Helm chart to test gh actions
-    digest: 0a938f84f9faaec71b273086f1f2f5974877a27801abe11fb1fedada6b08d63c
-    name: test-chart
-    type: application
-    urls:
-    - https://github.com/pennlabs/helm-charts/releases/download/test-chart-0.2.0/test-chart-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-08T21:01:04.400211782Z"
-    description: A Helm chart to test gh actions
-    digest: 08bc5bc2c5fca61d633c2f7ac6c0494967a0934732f801a20573153c1d15d7d8
-    name: test-chart
-    type: application
-    urls:
-    - https://github.com/pennlabs/helm-charts/releases/download/test-chart-0.1.0/test-chart-0.1.0.tgz
-    version: 0.1.0
   vault-secret-sync:
   - apiVersion: v2
     appVersion: 1.16.0
