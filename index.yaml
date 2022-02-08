@@ -3,199 +3,220 @@ entries:
   helm-wrapper:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.305946492Z"
+    created: "2022-02-08T20:52:12.350082163Z"
     description: A Wrapper Helm chart for Kubernetes
     digest: 801df977bb1f0bbf25da3e1fd3e12d6a31a7433e1a59867da7f23557043e1d03
     name: helm-wrapper
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/helm-wrapper-0.1.0/helm-wrapper-0.1.0.tgz
     version: 0.1.0
   icarus:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.532871483Z"
+    created: "2022-02-08T20:52:14.029770675Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 90773583018677196a73e9bba5750bd43654d80110ca4d7210ab7a3624faf10f
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.23/icarus-0.1.23.tgz
     version: 0.1.23
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.434191749Z"
+    created: "2022-02-08T20:52:13.902442742Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: f97ca4674e6c05cb7896c06e886eb19ca084ab427c2b97cf7b0857f60e412bbf
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.22/icarus-0.1.22.tgz
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.350918252Z"
+    created: "2022-02-08T20:52:13.807873277Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 5f62848e5960ac6d4eef2f5d3e9ce3d146fc5c4d45ac4b54a95536750b5e5e3b
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.21/icarus-0.1.21.tgz
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.26211884Z"
+    created: "2022-02-08T20:52:13.687491921Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: fb04fe2cc2c0c567afaf11def5d3d547061a7c1795f79ad6ad46920a4001ac65
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.20/icarus-0.1.20.tgz
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.184197652Z"
+    created: "2022-02-08T20:52:13.571982421Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 9032f75f36775b009a6313c27bdce5e244a842c69298658b294d917226c0e168
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.19/icarus-0.1.19.tgz
     version: 0.1.19
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.109524952Z"
+    created: "2022-02-08T20:52:13.439846333Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: be397bf601917efffa0a7f5ff04081cf657f79904b384e8949419912b596da48
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.18/icarus-0.1.18.tgz
     version: 0.1.18
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.011756001Z"
+    created: "2022-02-08T20:52:13.316795048Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 79b5d14bdd304afe77cc66686ae073b02f507ebed5f43089bccfc9f99f3977be
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.17/icarus-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.930785545Z"
+    created: "2022-02-08T20:52:13.196786496Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 30ca48d68a2521e5015d1aa328c0ac1dca554e0373b8c273358fbbbe37841eca
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.16/icarus-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.828062107Z"
+    created: "2022-02-08T20:52:13.074273817Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 0e7f33bb4bfddd10d5d442eb3cda552502d58abf996c9e511b1b49321f09e8f7
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.15/icarus-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.722576777Z"
+    created: "2022-02-08T20:52:12.946183575Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: e421885fad721d25ef0311d0e914e6c1c35e68b9b11414663b70b6dab68ab4b4
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.14/icarus-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.646074067Z"
+    created: "2022-02-08T20:52:12.822544883Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 0f7033d90b2639de08ad625ea470c94c255252e53ed11ba8823c9289fab1591a
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.13/icarus-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.559338424Z"
+    created: "2022-02-08T20:52:12.703601444Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 42dc5fea805041d7ed4731531fe1f9f350269492f541252a8f6fe67c21e62b11
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.12/icarus-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.463749889Z"
+    created: "2022-02-08T20:52:12.589082154Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: bfd27a8d346a8611f63e84bd7d51da0617f705ffe324f450b3486c06fb9f6bcb
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.11/icarus-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:38.390783961Z"
+    created: "2022-02-08T20:52:12.463873144Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: ad947842e743cff6fe64995445f9081560158d018a8e4ef5885f6a8bc7fe9a7a
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.10/icarus-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.657098286Z"
+    created: "2022-02-08T20:52:14.274655632Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 7a44e016d9471f76e43ff6f0ff7f0a0c67a8e8b41b54aaa002c83bb112d44ee8
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.9/icarus-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.587829958Z"
+    created: "2022-02-08T20:52:14.146088585Z"
     description: A generic helm chart that acts as the deploy base for Penn Labs
     digest: 052c12640404d5d1c563eebdec76588d4066ef074f45e8ab7e7a587488e50805
     name: icarus
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/icarus-0.1.8/icarus-0.1.8.tgz
     version: 0.1.8
   ingress-bouncer:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.990325005Z"
+    created: "2022-02-08T20:52:14.765527259Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 06aabf99aad9727e3165bac3c545e7f1b32e1ea929f842a6e79edd7c6f5f5aef
     name: ingress-bouncer
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.4/ingress-bouncer-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.905613368Z"
+    created: "2022-02-08T20:52:14.637924623Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 4b4b8d5c8ed4a75c28b0753702a0bb61839e0d8029c262f17e14599681aff56e
     name: ingress-bouncer
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.3/ingress-bouncer-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.804456721Z"
+    created: "2022-02-08T20:52:14.514938938Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 3e8fe325e26102d18b9df075962ab20e1d187550d3e3df8f4aa0079375746bb1
     name: ingress-bouncer
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.2/ingress-bouncer-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:39.733181374Z"
+    created: "2022-02-08T20:52:14.391607449Z"
     description: A Helm chart to deploy an ingress bouncer
     digest: 69eaf50e3c27460ce4c7255b34474631fe04d141cc0c4bbc60fa8f4c47e2e0f6
     name: ingress-bouncer
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/ingress-bouncer-0.1.1/ingress-bouncer-0.1.1.tgz
     version: 0.1.1
   minecraft:
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.240956693Z"
+    created: "2022-02-08T20:52:15.144248123Z"
     description: Minecraft server
     digest: c10343151f3deb22736bfabdc219bd8f98f2af3731b6e5f37cd0b26f476b3850
     home: https://minecraft.net/
@@ -211,7 +232,7 @@ entries:
     version: 1.1.12
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.152935648Z"
+    created: "2022-02-08T20:52:14.99921469Z"
     description: Minecraft server
     digest: 0466c7ce2ba99510229d78c700961735fd57b498aac6ffccd3ab765b698d6008
     home: https://minecraft.net/
@@ -227,7 +248,7 @@ entries:
     version: 1.1.11
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.072707232Z"
+    created: "2022-02-08T20:52:14.883823691Z"
     description: Minecraft server
     digest: 09b48b3a258daa290a3c4d886730329349e2ff74bfc1924b480d9a396358b99c
     home: https://minecraft.net/
@@ -246,7 +267,7 @@ entries:
     version: 1.1.10
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.477601333Z"
+    created: "2022-02-08T20:52:15.493262653Z"
     description: Minecraft server
     digest: 209504ef68040b6d7860edb6f8c2f0d66ec4e1cc11e9d507bb5af44571633ce3
     home: https://minecraft.net/
@@ -265,7 +286,7 @@ entries:
     version: 1.1.9
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.397244717Z"
+    created: "2022-02-08T20:52:15.381190491Z"
     description: Minecraft server
     digest: e2447358862e7d15aba9ec32c063d48149463ba4e0c998127c66b00f3bd90a0a
     home: https://minecraft.net/
@@ -288,7 +309,7 @@ entries:
     version: 1.1.8
   - apiVersion: v1
     appVersion: 1.14.4
-    created: "2021-01-12T02:14:40.315698347Z"
+    created: "2022-02-08T20:52:15.258816513Z"
     description: Minecraft server
     digest: 44b6ae8083ad13dd5aa0bc1f6a19b1f2097602383a5b6cf972efbf0f884681ba
     home: https://minecraft.net/
@@ -309,50 +330,66 @@ entries:
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/minecraft-1.1.7/minecraft-1.1.7.tgz
     version: 1.1.7
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-08T20:52:15.621547997Z"
+    description: A Helm chart to test gh actions
+    digest: 08bc5bc2c5fca61d633c2f7ac6c0494967a0934732f801a20573153c1d15d7d8
+    name: test-chart
+    type: application
+    urls:
+    - https://github.com/pennlabs/helm-charts/releases/download/test-chart-0.1.0/test-chart-0.1.0.tgz
+    version: 0.1.0
   vault-secret-sync:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:40.973530621Z"
+    created: "2022-02-08T20:52:16.237706135Z"
     description: A Helm chart to sync Vault secrets
     digest: 18a35dbb86f1834c7a66821472ea1cdbc2a9913186ea73e0006ee43686f4f41b
     name: vault-secret-sync
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.4/vault-secret-sync-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:40.885915031Z"
+    created: "2022-02-08T20:52:16.106052152Z"
     description: A Helm chart to sync Vault secrets
     digest: c2e25b98ea4e9045722817f1a0d851a254b8b4f268330a83994a0c6d0901c299
     name: vault-secret-sync
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.3/vault-secret-sync-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:40.798169941Z"
+    created: "2022-02-08T20:52:15.984379883Z"
     description: A Helm chart to sync Vault secrets
     digest: 0a0a41d8214c497f0e16750060ae7fef0af42eb91bbc89832239fcdd8e642131
     name: vault-secret-sync
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.2/vault-secret-sync-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:40.710575075Z"
+    created: "2022-02-08T20:52:15.871205708Z"
     description: A Helm chart to sync Vault secrets
     digest: 44f972afc0a94dd6ee0807374a16ac7381175d2847b76bc940f20414f1ac22aa
     name: vault-secret-sync
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.1/vault-secret-sync-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-12T02:14:40.569992856Z"
+    created: "2022-02-08T20:52:15.746216101Z"
     description: A Helm chart to sync Vault secrets
     digest: 8b80ebb82aa5e03cc0d8195ce766d787ae2a45d83fd33ac61157154da1c989bb
     name: vault-secret-sync
+    type: application
     urls:
     - https://github.com/pennlabs/helm-charts/releases/download/vault-secret-sync-0.1.0/vault-secret-sync-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-12T02:14:38.222103935Z"
+generated: "2022-02-08T20:52:16.23813024Z"
